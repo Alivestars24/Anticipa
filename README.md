@@ -49,9 +49,9 @@ The judge account and Google sign-in are both the **observer** role: you can bro
 
 ### Film and walkthrough
 
-**▶ Cinematic film (3 min):** [Watch First Light, the story of Anticipa in three minutes](https://github.com/vishavmehra/Anticipa/releases/download/film-v1/anticipa-film.mp4)
+**▶ Cinematic film (3 min):** [Watch First Light, the story of Anticipa in three minutes](https://github.com/Alivestars24/Anticipa/releases/download/film-v1/anticipa-film.mp4)
 
-**▶ Product walkthrough (31 min):** [Watch the full narrated tour of every dashboard](https://github.com/vishavmehra/Anticipa/releases/download/walkthrough-v1/anticipa-walkthrough.mp4) · [Chapters](walkthrough/README.md)
+**▶ Product walkthrough (31 min):** [Watch the full narrated tour of every dashboard](https://github.com/Alivestars24/Anticipa/releases/download/walkthrough-v1/anticipa-walkthrough.mp4) · [Chapters](walkthrough/README.md)
 
 ---
 
@@ -546,7 +546,7 @@ You can run everything on a laptop. The one external requirement is a free **Sup
 ### 1. Clone and configure
 
 ```bash
-git clone https://github.com/vishavmehra/anticipa.git
+git clone https://github.com/Alivestars24/anticipa.git
 cd anticipa
 cp .env.example .env              # then fill in the values listed in "Environment variables"
 cp frontend/.env.example frontend/.env.local
@@ -767,7 +767,7 @@ docker-compose.yml  PostgreSQL 17 + pgvector, HAPI FHIR
 
 ## License
 
-[MIT](LICENSE). Copyright (c) 2026 vishavmehra.
+[MIT](LICENSE). Copyright (c) 2026 Vaishnavi Mandhane.
 
 ## Acknowledgements
 

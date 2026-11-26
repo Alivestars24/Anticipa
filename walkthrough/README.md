@@ -2,9 +2,9 @@
 
 A narrated, subtitled tour of every dashboard, about 30:54 minutes, recorded on the synthetic population (1920x1080, burned-in English subtitles).
 
-**Watch:** [anticipa-walkthrough.mp4](https://github.com/vishavmehra/Anticipa/releases/download/walkthrough-v1/anticipa-walkthrough.mp4) (GitHub Release asset, [release page](https://github.com/vishavmehra/Anticipa/releases/tag/walkthrough-v1))
+**Watch:** [anticipa-walkthrough.mp4](https://github.com/Alivestars24/Anticipa/releases/download/walkthrough-v1/anticipa-walkthrough.mp4) (GitHub Release asset, [release page](https://github.com/Alivestars24/Anticipa/releases/tag/walkthrough-v1))
 
-Subtitles as a separate file: [anticipa-walkthrough.srt](https://github.com/vishavmehra/Anticipa/releases/download/walkthrough-v1/anticipa-walkthrough.srt)
+Subtitles as a separate file: [anticipa-walkthrough.srt](https://github.com/Alivestars24/Anticipa/releases/download/walkthrough-v1/anticipa-walkthrough.srt)
 
 ## Chapters
 
